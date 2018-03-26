@@ -15,4 +15,3 @@ This library is part of [Fractal Symbols](http://afractalthought.com/fractal-sym
 ## Author
 
 * **Felix "Fractale" Thålin** - *author* - [FractalThought](https://github.com/FractalThought)
-
