@@ -6,8 +6,10 @@ I started making and collecting these symbols because I had difficulty finding u
 
 Finally, my collection had grown enough to share with other board game designers (and everyone else), so that others may use what I have created, and, like me, can spend more time designing and making the games rather than the symbols.
 
+The library is divided into sections, with symbols grouped based on use. For example, all card symbols go into the Card section, all symbols related to Combat are stored in the Combat section. Each section is made up of a single file that contains all the symbols. Each section is showcased below with its title, a sample of symbols, and a rough description of what’s in that section.
+
 ## Technical information
-All files (sections) are in .eps vector format with CMYK color-setting. Symbols are aligned in a grid of 7 columns and as many rows as needed. They are colored black with no outline and are sized to fit inside a 100x100mm square (unless otherwise needed for the symbol). To use them you need a vector-based illustration program like Illustrator or Inkscape. Each section is showcased below with its title, a sample of symbols, and a rough description of what’s in that section.
+All files are in .eps vector format with CMYK color-setting. Symbols are aligned in a grid of 7 columns and as many rows as needed. They are colored black with no outline and are sized to fit inside a 100x100mm square (unless otherwise needed for the symbol). To use them you need a vector-based illustration program like Adobe Illustrator or Inkscape. The files are hosted at Github where you can access older versions if needed.
 
 ## License
 This library is part of [Fractal Symbols](http://afractalthought.com/fractal-symbols/) and is licensed under the Creative Commons Attribution 4.0 International License. This means you are free to use the symbols as you like, modify them or add to them when needed, as long as you mention and link back to this library. See the [LICENSE.md](LICENSE.md) file for more information. If you are uncertain of what is required, please contact me at fractale@afractalthought.com.
